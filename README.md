@@ -1,8 +1,7 @@
 <h1 align="center"> Abhishek's Portfolio </h1>
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/66aaced8-fe09-494a-8ddb-f38334f64b62/deploy-status)](https://app.netlify.com/sites/normann/deploys)
-[![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://github.com/ekaranjaa/norman-portfolio/blob/master/LICENSE.txt)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70386fe9-e36b-4f19-9309-d4078e49d44e/deploy-status)](https://app.netlify.com/sites/abhis-personal/deploys)
 
 ---
 
