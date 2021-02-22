@@ -1,0 +1,19 @@
+{
+    "company": "Fnplus Tech",
+    "company_website": "https://fnplus.tech",
+    "role": "Co-founder & Community Lead",
+    "contract": {
+        "type": "Full-time",
+        "live": false
+    },
+    "duration": "Dec 2018 - Feb 2020",
+    "description": "Fnplus AKA FunctionPlus began with the need for practical, applied-learning projects to supplement the college's engineering curriculum. During my college days, I felt the need to help students with applied technical skills to get equal opportunities regardless of the college they come from. The problem we found was measuring skills objectively around technical & non-technical skills for which we created a framework to work with. \n We created a gamified platform for college students to sign up and solve business problem statements with a technology solution which we could track. Data & Insights gathered in form of journeys was used to put together a 'Devfolio' which could be used to identify the core competencies of students and help identify quality talent. They started looking at their applied learning journeys instead of resumes.",
+    "tasks": [
+        "Researched and prototyped gamified learning platform which ensured maximum retention and fun while learning with community members.",
+        "Developed programs, curriculum, and philosophy. Built the customer experience & community of self-learning geeks in multiple cities of India.",
+        "Launched the platform & established a community base of 1K+ students.",
+        "Interviewed, appointed, trained, and assigned responsibility to cross-functional teams.",
+        "Managed an agile team of 5 across product engineering & social media marketing.",
+        "Coordinated with marketing and engineering teams to unify product vision & strategy."
+    ]
+}

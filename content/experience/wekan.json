@@ -1,0 +1,21 @@
+{
+    "company": "Wekan Company",
+    "company_website": "https://www.wekan.company",
+    "role": "Software Engineer & Evangelist",
+    "contract": {
+        "type": "Full time",
+        "live": true
+    },
+    "duration": "March 2020 - Present",
+    "description": "WeKan is a pre-seed/seed stage B2B & Future of Work fund based in New York and Chennai. Unlike most funds, we’re very hands-on in helping startups inculcate a product-led growth strategy to raise their Series A. At WeKan, I work directly with the CEO and CTO as an evangelist & product engineer respectively.",
+    "tasks": [
+        "Working for eHuddle's (Coach's management platform) engineering team.",
+        "Worked for WeKan's website/web app engineering team.",
+        "Worked for AdWap's (Watching for a change) engineering team.",
+        "Worked for OBE Power's (Charging-as-a-service) engineering team.",
+        "Worked for Freedom's (micro-social network) engineering team.",
+        "Planned & executed the first cohort focused on B2B & Future of Work startups in 60 days.",
+        "Helped in profiling startups for investments and strategic growth.",
+        "Laid out the company's digital strategy around product-market fit & product-led growth."
+    ]
+}

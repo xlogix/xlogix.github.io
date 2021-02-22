@@ -1,0 +1,8 @@
+{
+    "name": "Contributor at Oppia",
+    "cover_image": "/images/projects/oppia.png",
+    "description": "Oppia is a free, online learning platform to make quality education accessible for all. I am contributor to the project",
+    "languages": ["HTML", "CSS", "Python", "JavaScript", "Angular"],
+    "github_link": "https://github.com/oppia/oppia",
+    "live_link": "https://www.oppia.org/"
+}
