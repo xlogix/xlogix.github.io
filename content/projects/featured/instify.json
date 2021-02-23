@@ -1,7 +1,7 @@
 {
     "name": "Instify App",
     "cover_image": "/images/projects/instify.png",
-    "description": "This is an online Food Ordering App for Bwibo Dishes which gives their clients the flexibility to place their Food Orders and get them delivered to them conveniently, quickly and painlessly. It has a vast visual appeal and a strong stimulating effect through its beautiful UI which provides easy User Experience and navigation. It is built using the MVC Design Pattern.",
+    "description": "Instify was initially developed to prevent the spead of fake news in my college which was affected by a natural disaster (flood). Later, it became a companion app for students where the could check their attendance, test scores, chat with each other and share study notes. It is built using the MVC Design Pattern.",
     "languages": ["Java", "Kotlin", "Firebase", "SQL", "PHP"],
     "github_link": "https://github.com/xlogix/instify",
     "live_link": "https://www.fnplus.tech/products/instify"
