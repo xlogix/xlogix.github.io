@@ -20,7 +20,7 @@
         "webpack": "^5.23.0"
     },
     "devDependencies": {
-        "@babel/core": "^7.12.17",
+        "@babel/core": "^7.13.0",
         "@nuxtjs/eslint-config": "^5.0.0",
         "@nuxtjs/eslint-module": "^3.0.2",
         "@nuxtjs/tailwindcss": "^3.4.2",
