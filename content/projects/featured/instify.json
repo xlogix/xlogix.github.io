@@ -1,6 +1,6 @@
 {
     "name": "Instify App",
-    "cover_image": "/images/projects/instify.png",
+    "cover_image": "/images/projects/instify.webp",
     "description": "Instify was initially developed to prevent the spead of fake news in my college which was affected by a natural disaster (flood). Later, it became a companion app for students where the could check their attendance, test scores, chat with each other and share study notes. It is built using the MVC Design Pattern.",
     "languages": ["Java", "Kotlin", "Firebase", "SQL", "PHP"],
     "github_link": "https://github.com/xlogix/instify",

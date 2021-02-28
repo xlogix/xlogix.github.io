@@ -1,3 +1,5 @@
+const optimizedImages = require('next-optimized-images');
+
 export default {
     target: 'static',
 
@@ -107,6 +109,12 @@ export default {
     content: {},
 
     build: {},
+
+    withPlugins: ([
+        [optimizedImages, {
+            /* config for next-optimized-images */
+        }]
+    ]),
 
     server: {
         port: 8000,

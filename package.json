@@ -16,18 +16,19 @@
         "@nuxtjs/google-analytics": "^2.4.0",
         "@nuxtjs/pwa": "^3.3.5",
         "core-js": "^3.9.0",
-        "nuxt": "^2.15.1",
-        "webpack": "^5.23.0"
+        "next-optimized-images": "^2.6.2",
+        "nuxt": "^2.15.2",
+        "webpack": "^4.46.0"
     },
     "devDependencies": {
-        "@babel/core": "^7.12.17",
+        "@babel/core": "^7.13.8",
         "@nuxtjs/eslint-config": "^5.0.0",
         "@nuxtjs/eslint-module": "^3.0.2",
         "@nuxtjs/tailwindcss": "^3.4.2",
         "@tailwindcss/postcss7-compat": "^2.0.3",
         "autoprefixer": "^10",
         "babel-eslint": "^10.1.0",
-        "eslint": "^7.20.0",
+        "eslint": "^7.21.0",
         "eslint-config-prettier": "^7.2.0",
         "eslint-plugin-nuxt": "^2.0.0",
         "eslint-plugin-prettier": "^3.3.1",
