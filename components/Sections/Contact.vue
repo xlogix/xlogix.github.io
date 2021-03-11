@@ -28,7 +28,7 @@
                     method="POST"
                     action="/success"
                     data-netlify="true"
-                    data-netlify-honeypot="bot-field"
+                    data-netlify-recaptcha="true"
                     @submit.prevent="submitForm"
                 >
                     <input type="hidden" name="form-name" value="contact" />
