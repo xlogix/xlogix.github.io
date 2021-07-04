@@ -1,0 +1,15 @@
+{
+    "company": "Zuddl",
+    "company_website": "https://www.zuddl.com/",
+    "role": "Full-Stack Software Engineer",
+    "contract": {
+        "type": "Full time",
+        "live": true
+    },
+    "duration": "June 2021 - Present",
+    "description": "Building Zuddl, a YC company that lets large companies host branded conferences online. Zuddl's all-in-one platform gives organizers complete control to build the virtual event you've imagined. We create engaging and immersive experiences for your attendees in minutes.",
+    "tasks": [
+        "Working on improving event streams using Agora APIs.",
+        "Working on improving the live event experience."
+    ]
+}
