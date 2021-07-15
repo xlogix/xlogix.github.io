@@ -1,7 +1,7 @@
 {
     "name": "Capture the Flag",
     "cover_image": "/images/projects/captureflag.webp",
-    "description": "A capture the flag is a team-based competition in which participants use cybersecurity tools and techniques to find hidden clues or “flags”. I enjoy learning about security which in terms helps me write better code.",
+    "description": "Capture the flag is a team-based competition in which participants use cybersecurity tools and techniques to find hidden clues or “flags”. I enjoy learning about security which in terms helps me write better code.",
     "languages": [
         "Reverse Engineering",
         "Network Security",

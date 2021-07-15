@@ -1,36 +1,40 @@
 {
     "skills": [
         {
-            "name": "Javascript",
-            "icon": "javascript.svg"
+            "name": "Node.js",
+            "icon": "nodejs.svg"
         },
         {
-            "name": "Python",
-            "icon": "python.svg"
+            "name": "HTML5",
+            "icon": "html5.svg"
+        },
+        {
+            "name": "CSS",
+            "icon": "css3.svg"
+        },
+        {
+            "name": "React.js",
+            "icon": "react.svg"
         },
         {
             "name": "Java",
             "icon": "java.svg"
         },
         {
-            "name": "Kotlin",
-            "icon": "kotlin.svg"
+            "name": "Android",
+            "icon": "android.svg"
         },
         {
-            "name": "Ruby",
-            "icon": "ruby.svg"
+            "name": "Python",
+            "icon": "python.svg"
         },
         {
             "name": "C++",
             "icon": "c++.svg"
         },
         {
-            "name": "HTML5",
-            "icon": "html.svg"
-        },
-        {
-            "name": "CSS",
-            "icon": "css.svg"
+            "name": "Dart",
+            "icon": "dart.svg"
         },
         {
             "name": "SASS",
@@ -45,16 +49,20 @@
             "icon": "postgresql.svg"
         },
         {
-            "name": "MySQL",
-            "icon": "mysql.svg"
+            "name": "Firebase",
+            "icon": "firebase.svg"
         },
         {
             "name": "GraphQL",
             "icon": "graphql.svg"
         },
         {
-            "name": "Git",
-            "icon": "git.svg"
+            "name": "Ruby",
+            "icon": "ruby.svg"
+        },
+        {
+            "name": "Elixir",
+            "icon": "elixir.svg"
         }
     ]
 }

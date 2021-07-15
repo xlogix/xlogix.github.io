@@ -15,25 +15,21 @@
         "@nuxt/content": "^1.14.0",
         "@nuxtjs/google-analytics": "^2.4.0",
         "@nuxtjs/pwa": "^3.3.5",
-        "core-js": "^3.9.1",
+        "core-js": "^3.15.2",
         "next-optimized-images": "^2.6.2",
-        "nuxt": "^2.15.3",
+        "nuxt": "^2.15.7",
         "webpack": "^4.46.0"
     },
     "devDependencies": {
-        "@babel/core": "^7.13.10",
-        "@nuxtjs/eslint-config": "^6.0.0",
+        "@babel/core": "^7.14.6",
+        "@nuxtjs/eslint-config": "^6.0.1",
         "@nuxtjs/eslint-module": "^3.0.2",
-        "@nuxtjs/tailwindcss": "^3.4.3",
-        "@tailwindcss/postcss7-compat": "^2.0.3",
-        "autoprefixer": "^10",
+        "@nuxtjs/tailwindcss": "^4.2.1",
         "babel-eslint": "^10.1.0",
-        "eslint": "^7.21.0",
-        "eslint-config-prettier": "^8.1.0",
+        "eslint": "^7.30.0",
+        "eslint-config-prettier": "^8.3.0",
         "eslint-plugin-nuxt": "^2.0.0",
-        "eslint-plugin-prettier": "^3.3.1",
-        "postcss": "^7.0.35",
-        "prettier": "^2.2.1",
-        "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+        "eslint-plugin-prettier": "^3.4.0",
+        "prettier": "^2.3.2"
     }
 }

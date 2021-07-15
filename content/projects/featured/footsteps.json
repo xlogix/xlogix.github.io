@@ -1,7 +1,7 @@
 {
     "name": "Footsteps App",
     "cover_image": "/images/projects/footsteps.webp",
-    "description": "This is a a search 🔎engine of community-made 🧑‍🤝‍🧑learning resources for the 21st-century learner.👨‍💻👩‍💻 Learn by following the footsteps (journey) of experts. Made alongside a browser extension, this app helps in bringing out the best curated content from the experts to everyone.",
+    "description": "Footsteps is a search 🔎engine of community-made 🧑‍🤝‍🧑learning resources for 21st-century learners.👨‍💻👩‍💻 Learn by following the footsteps (journey) of experts. The app runs with a companion browser extension for easy access and helps to bring the community chosen content from the experts to everyone.",
     "languages": ["JavaScript", "HTML", "CSS", "React.js", "PostgreSQL"],
     "github_link": "https://github.com/fnplus/footsteps-app",
     "live_link": "https://www.footsteps.dev"
